@@ -3,7 +3,7 @@ def using_while
     while levitation_force < 10
       puts phrase = "Wingardium Leviosa"
       levitation_force += 1
-      using_while
     end
 end
-exit
+
+using_while
